@@ -9,7 +9,7 @@
 *Directory: `Reinforcement_Learning/Stage1_Data_Stack_Prep/`*
 - [x] **Task 1:** 配置 Anaconda、Python (3.11) 与 GitHub 环境 *(✅ 2026.06.13: 已完成 Python 环境搭建与基础变量学习)*
 - [ ] **Task 2:** 学习 NumPy、Pandas 与 Matplotlib 核心操作
-- [ ] **Task 3:** 映射《算法分析》动态规划至马尔可夫决策过程 (MDP) *(🔥 2026.06.14: 进度更新 - 已攻克 CS50P Conditionals 前置核心语法)*
+- [ ] **Task 3:** 映射《算法分析》动态规划至马尔可夫决策过程 (MDP) *(🔥 2026.06.15: 进度更新 - 已全面攻克 CS50P Conditionals 与 Loops 两大核心前置语法)*
 - [ ] **Task 4:** 完成 CartPole 环境状态离散化 (分桶操作)
 - [ ] **Task 5:** 基于 C 语言逻辑转化：实现表格版 Q-learning
 - [ ] **Task 6:** 跑通多随机种子训练曲线，完成 GitHub 提交
